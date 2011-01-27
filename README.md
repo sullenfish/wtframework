@@ -1,5 +1,5 @@
-# WTFramework Bookmarklet
-**Check the JavaScript framework used on a website with just one click**
+# WTFramework - HitchhikerJS Edition
+**Pass the JavaScript framework used on a website to the HitchhikerJS API**
 
 ---
 
